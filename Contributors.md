@@ -462,7 +462,8 @@ Hey its Wesley
 - Hello, I am Yukthi
 - Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
-- Bola 
+- Bola
+- hello my name is eason(https://github.com/gider-eason) 
 - Hello, my name is Cody Blomberg. I am a contributor. 
 - Hello I am Tanisha
 - [Gutrav Leonard](https://github.com/practicante010)
@@ -8112,6 +8113,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [James M-staxxtec] (https://github.com/staxxtec)
 - [tomato]
 - [Michael Thompson] (https://github.com/mctworks)
+- 
 - [Amirhossein Mirshahi] (https://github.com/Delaunay-I)
 - [Empuraan]
 - [David V Rullo](https://github.com/David-V-Rullo)
